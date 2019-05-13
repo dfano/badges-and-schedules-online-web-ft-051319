@@ -22,3 +22,6 @@ def printer(attendees)
     puts name
   end
 end
+
+list = ["dave", "keith", "orla"]
+printer(list)
