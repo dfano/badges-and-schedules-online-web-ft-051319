@@ -20,6 +20,7 @@ def printer(attendees)
 
   badges.each_with_index do |name, index|
     puts name
+    puts rooms[index]
   end
 end
 
