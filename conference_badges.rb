@@ -24,5 +24,5 @@ def printer(attendees)
   end
 end
 
-list = ["dave", "keith", "orla"]
-printer(list)
+# list = ["dave", "keith", "orla"]
+# printer(list)
